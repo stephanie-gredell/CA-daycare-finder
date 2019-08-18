@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CA-daycare-finder/precache-manifest.52ca258aefd6c33e80492cac6164756c.js"
+  "/CA-daycare-finder/precache-manifest.a7c4df2a4b22410d0ce69882fe23f2fc.js"
 );
 
 self.addEventListener('message', (event) => {
