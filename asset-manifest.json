@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CA-daycare-finder/static/css/main.a0c76b94.chunk.css",
+    "main.js": "/CA-daycare-finder/static/js/main.30b6acf1.chunk.js",
+    "main.js.map": "/CA-daycare-finder/static/js/main.30b6acf1.chunk.js.map",
+    "runtime~main.js": "/CA-daycare-finder/static/js/runtime~main.dcbab462.js",
+    "runtime~main.js.map": "/CA-daycare-finder/static/js/runtime~main.dcbab462.js.map",
+    "static/js/2.1c69b7d8.chunk.js": "/CA-daycare-finder/static/js/2.1c69b7d8.chunk.js",
+    "static/js/2.1c69b7d8.chunk.js.map": "/CA-daycare-finder/static/js/2.1c69b7d8.chunk.js.map",
+    "index.html": "/CA-daycare-finder/index.html",
+    "precache-manifest.f89f132958a8aed27efde0d54492b767.js": "/CA-daycare-finder/precache-manifest.f89f132958a8aed27efde0d54492b767.js",
+    "service-worker.js": "/CA-daycare-finder/service-worker.js",
+    "static/css/main.a0c76b94.chunk.css.map": "/CA-daycare-finder/static/css/main.a0c76b94.chunk.css.map"
+  }
+}
